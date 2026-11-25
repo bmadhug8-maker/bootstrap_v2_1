@@ -34,7 +34,7 @@ The keyword !important declares higher priority over the specific style rules fo
 .btn-primary:hover{
   background-color:rgba(234, 56, 59, 0.7) !important;
   border: none !important;
-}
+} 
 
 
 .btn-primary-shadow{
